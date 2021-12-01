@@ -1,0 +1,9 @@
+title: Leap Day theme My
+description: Leap Day is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-leap-day
+
+mytext: some text
+
+contact: mailto:webdoxy@gmail.com?subject=From github page
